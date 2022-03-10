@@ -1,0 +1,18 @@
+:root {
+    --light-purple: #E4DDF4;
+    --light-brown: #943D24;
+    --light-yellow: #FFFBF0;
+    --blue: #373E98;
+    --yellow: #CEB92C;
+
+
+
+  
+    
+    /*Typography */
+    --h1: 7.594rem;
+    --h2: 5.063rem;
+    --h3: 3.375rem;
+    --h4: 2.25rem;
+    --h5: 1.5rem;  
+  }
