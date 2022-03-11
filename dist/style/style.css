@@ -1,0 +1,28 @@
+@import url(variables.css);
+
+html,
+body,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+
+
+
+.article-title{
+  font-size: 3rem;
+}
+.article-author{
+  font-size: 2rem;
+
+}
+.article{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: center;
+}

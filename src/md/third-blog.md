@@ -8,4 +8,10 @@ imageAlt: This is a test
 description: Eat potatoes
 ---
 
-adasjkjkasjkasd
+For this simple but delicious recipe, you will only need 5 simple ingredients. 
+You will need New York Steak, butter, salt, black pepper, and olive oil.
+The first step is to pat your New York Steak dry with a paper towel and cover it in olive oil.
+ The olive oil will ensure that the seasoning will stick to the meat. 
+Season generously with salt and black pepper and make sure to rub it in. 
+Put olive oil into a pan and heat it till it starts smoking.  
+
