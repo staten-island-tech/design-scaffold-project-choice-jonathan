@@ -10,19 +10,64 @@ body,
 }
 
 
-
-
-.article-title{
-  font-size: 3rem;
+.blog-background{
+  background-color: var(--light-yellow);
 }
-.article-author{
-  font-size: 2rem;
+
+.blog-title{
+  font-size: var(--h2);
+  background-color: var(--light-purple);
+  text-align: center;
+  padding: 1rem;
+}
+.desk-nav{
+  background-color: var(--light-brown);
+  font-size: var(--h2);
+  color: var(--white);
+  display: flex;
+  padding: 1rem;
+}
+
+.nav-item-desk{
+  margin: 1rem;
+
 
 }
+
 .article{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   text-align: center;
   align-items: center;
+  margin: 3rem;
 }
+
+.img-preview{
+  height: 30rem;
+  width: 40rem;
+  display: flex;
+}
+
+.article-title{
+  font-size: var(--h3);
+  margin: .5rem
+}
+
+.article-author{
+  font-size: var(--h4);
+
+}
+
+
+.article-link{
+font-size: 1rem;
+
+}
+
+.home-background{
+  background-color: var(--blue);
+}
+
+
+
