@@ -6,21 +6,21 @@
     <title>Articles</title>
     <link rel="stylesheet" href="/style/style.css">
 </head>
-<body class=".blog-background">
-    <h1 class="blog-title">Jonathan Wongs Blog</h1>
+<body class="blog-background">
+    <h1 class="blog-title">Jonathan's Blog</h1>
     {% include 'nav.njk' %}
+    <h2 class="second-header">Posts</h2>
     <section class="section-container">
         <ul class="articles">
             {%- for post in collections.post -%}
                 <article class="article">
                     <div class="article-text">
                         <img src="{{post.data.image}}" alt="" class="img-preview">
-                        <h3 class="article-title">{{post.data.title}}</h3>
+                        <a class="article-link" href="{{post.url}}">{{post.data.title}}</a>
                         <h4 class="article-author">By {{post.data.author}}: {{post.data.date | 
                             postDate}}</h4>
-                        <a class="article-link" href="{{post.url}}">Continue Reading</a>
+                        <h5 class="article-description">{{post.data.description}}</h5>
                     </div>
-                    
                 </article>
             {%- endfor -%}
         </ul>

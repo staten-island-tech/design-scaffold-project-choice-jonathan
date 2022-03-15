@@ -26,22 +26,27 @@ body,
   color: var(--white);
   display: flex;
   padding: 1rem;
+  color: var(--yellow);
 }
 
 .nav-item-desk{
   margin: 1rem;
+}
 
+.second-header{
+  text-align: center;
+  margin: 5rem;
 
 }
 
-.article{
+.articles{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   text-align: center;
   align-items: center;
-  margin: 3rem;
 }
+
 
 .img-preview{
   height: 30rem;
@@ -49,7 +54,7 @@ body,
   display: flex;
 }
 
-.article-title{
+.article-link{
   font-size: var(--h3);
   margin: .5rem
 }
@@ -59,15 +64,30 @@ body,
 
 }
 
-
-.article-link{
-font-size: 1rem;
+.article-description{
+  font-size: var(--h5);
 
 }
+
 
 .home-background{
   background-color: var(--blue);
 }
 
+.header-container{
+background-color: white;
+text-align: center;
+margin-top: 30rem;
+padding: 5rem;
+}
 
+.desks-nav{
+  font-size: var(--h2);
+  display: flex;
+  padding: 1rem;
+  
+}
 
+.navs-item-desk{
+  margin: 1rem;
+}
