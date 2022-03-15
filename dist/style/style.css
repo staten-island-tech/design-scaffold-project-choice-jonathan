@@ -56,7 +56,12 @@ body,
 
 .article-link{
   font-size: var(--h3);
-  margin: .5rem
+  margin: .5rem;
+}
+
+a:link{
+  color: black;
+
 }
 
 .article-author{
