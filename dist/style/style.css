@@ -19,6 +19,7 @@ body,
   background-color: var(--light-purple);
   text-align: center;
   padding: 1rem;
+  font-family: 'Oswald', sans-serif;
 }
 .desk-nav{
   background-color: var(--light-brown);
@@ -27,16 +28,19 @@ body,
   display: flex;
   padding: 1rem;
   color: var(--yellow);
+  font-family: 'Oswald', sans-serif;
 }
 
 .nav-item-desk{
   margin: 1rem;
+  color: var(--white);
+  font-family: 'Oswald', sans-serif;
 }
 
 .second-header{
   text-align: center;
   margin: 5rem;
-
+  font-family: 'Oswald', sans-serif;
 }
 
 .articles{
@@ -45,6 +49,7 @@ body,
   flex-wrap: wrap;
   text-align: center;
   align-items: center;
+  font-family: 'Oswald', sans-serif;
 }
 
 
@@ -57,42 +62,51 @@ body,
 .article-link{
   font-size: var(--h3);
   margin: .5rem;
-}
-
-a:link{
+  font-family: 'Oswald', sans-serif;
   color: black;
-
 }
+
 
 .article-author{
   font-size: var(--h4);
-
+  font-family: 'Oswald', sans-serif;
 }
 
 .article-description{
   font-size: var(--h5);
-
+  font-family: 'Oswald', sans-serif;
 }
 
 
 .home-background{
   background-color: var(--blue);
+  font-family: 'Oswald', sans-serif;
 }
 
 .header-container{
-background-color: white;
-text-align: center;
-margin-top: 30rem;
-padding: 5rem;
+  background-color: white;
+  margin: auto;
+  margin-top: 10rem;
+  padding: 5rem;
+  font-family: 'Oswald', sans-serif;
+  height: 75%;
+  width: 85%;
+}
+
+.header-title{
+  margin-top: 20rem;
+  text-align: center;
 }
 
 .desks-nav{
-  font-size: var(--h2);
   display: flex;
-  padding: 1rem;
-  
+  justify-content: center;
 }
 
 .navs-item-desk{
-  margin: 1rem;
+  font-size: var(--h3);
+  margin: 5rem;
+  color:  var(--yellow);
+  font-family: 'Oswald', sans-serif;
+  padding: 5rem;
 }
