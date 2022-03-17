@@ -31,7 +31,7 @@ Flip the steaks when they release easily and the bottom is a deep-brown color (u
 
 Add 1 tablespoon of butter and a few sprigs of fresh thyme to the pan with the steaks (this is optional but delicious).
 
-Cook till an internal temperature of
+Cook till an internal temperature of 100 degrees Fahrenheit and serve.
 
 If you are serving the steaks unsliced, transfer them to plates and serve hot. If you plan to slice the steaks, transfer them to a cutting board and let rest, covered with aluminum foil, for 5 to 10 minutes; then slice thinly against the grain. (Resting allows the juices to redistribute from the outside of the steaks; if you slice them too soon, the juices will pour out of them.)
 
