@@ -112,9 +112,24 @@ body,
 }
 
 .article-background{
-  background-color: var(--light-yellow);
+  background-color: white;
 
 }
+
+.deskss-nav{
+  background-color: black;
+  font-size: var(--h2);
+  display: flex;
+  padding: 1rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+.navss-item-desk{
+  margin: 1rem;
+  color: var(--white);
+  font-family: 'Oswald', sans-serif;
+}
+
 .headers-title{
   text-align: center;
   margin: 5rem;
