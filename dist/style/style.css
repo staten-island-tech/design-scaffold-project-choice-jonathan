@@ -11,29 +11,28 @@ body,
 
 
 .blog-background{
-  background-color: var(--light-yellow);
+  background-color: var(--white);
+}
+.blog-header{
+  display: flex;
 }
 
 .blog-title{
   font-size: var(--h2);
-  background-color: var(--light-purple);
   text-align: center;
   padding: 1rem;
   font-family: 'Oswald', sans-serif;
 }
 .desk-nav{
-  background-color: var(--light-brown);
   font-size: var(--h2);
-  color: var(--white);
   display: flex;
   padding: 1rem;
-  color: var(--yellow);
   font-family: 'Oswald', sans-serif;
 }
 
 .nav-item-desk{
   margin: 1rem;
-  color: var(--white);
+  color: var(--black);
   font-family: 'Oswald', sans-serif;
 }
 
@@ -84,7 +83,7 @@ body,
 }
 
 .header-container{
-  background-color: white;
+  background-color:  var(--white);
   margin: auto;
   margin-top: 10rem;
   padding: 5rem;

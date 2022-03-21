@@ -22,7 +22,7 @@ When picking your meat, try to find the bone-in. Leaving the bone in the meat ad
 
 1.Trim: some cuts will come with a thick fat cap on the bottom of the roast. Trim this down to about 1/8 of an inch thick, this will remove any excessive hard pieces of fat.
 
-2.Score the fat: in the remaining fat cap on the bottom of the roast, cut slices, in a grid/tic-tac-toe shape, just deep enough to go through the fat to reach the meat. This will 3. help the rub reach the meat, otherwise, no flavoring will penetrate the fat layer.
+2.Score the fat: in the remaining fat cap on the bottom of the roast, cut slices, in a grid/tic-tac-toe shape, just deep enough to go through the fat to reach the meat. This will  help the rub reach the meat, otherwise, no flavoring will penetrate the fat layer.
 
 3.Apply binder: this can be anything that gives a tacky/sticky layer on the pork to help the rub stick. Options would be water/oil/vinegar/mustard.
 
