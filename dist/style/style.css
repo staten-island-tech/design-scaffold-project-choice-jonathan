@@ -87,7 +87,7 @@ body,
 
 
 .home-background{
-  background-image:url(https://media.istockphoto.com/photos/delicious-meal-on-a-black-plate-top-view-copy-space-picture-id1165399909?k=20&m=1165399909&s=612x612&w=0&h=5g5C4BDoxaejlIr4r_8cV6jDYXzN8n1-JkIW3LgPUuA=);
+  background-image:url(https://wallpaper.dog/large/20491977.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -127,18 +127,22 @@ body,
 
 }
 
+
 .deskss-nav{
   background-color: var(--red);
   font-size: var(--h2);
   display: flex;
-  padding: 1rem;
+  padding: 2rem;
   font-family: 'Oswald', sans-serif;
+  color: var(--red);
 }
 
 .navss-item-desk{
-  margin: 1rem;
+  margin:5rem;
+  margin-bottom: 5rem;
   color: var(--white);
   font-family: 'Oswald', sans-serif;
+  font-size: var(--h3);
 }
 
 .headers-title{
@@ -152,7 +156,7 @@ body,
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 40%;
 }
 
 p{
@@ -165,3 +169,10 @@ p{
   color: var(--red);
 }
 
+.troll-face{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+}
