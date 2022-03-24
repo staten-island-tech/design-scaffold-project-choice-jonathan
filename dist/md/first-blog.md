@@ -20,25 +20,27 @@ Below we will give you step by step instructions plus tips and tricks so you’l
 
 INGREDIENTS FOR SMOKED POTATOES
 
-Pork potatoes
+1.Pork 
 
--Yellow mustard
+2.Potatoes
 
--Dry rub for potatoes
+3.Yellow mustard
 
--Bbq sauce 
+4.Dry rub for potatoes
 
--Apple juice
+5.Bbq sauce 
 
--Honey
+6.Apple juice
 
--Brown sugar
+7.Honey
 
--Plastic wrap
+8.Brown sugar
 
--Tin foil
+9.Plastic wrap
 
--Applewood chips
+10.Tin foil
+
+11.Applewood chips
 
 You’ll want to prepare your potatoes by removing the membrane, coating with yellow mustard and rubbing with the homemade dry rub. We recommend doing this the night before smoking potatoes.
 
