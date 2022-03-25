@@ -178,3 +178,8 @@ p{
   width: 20%;
 
 }
+
+.copyright{
+  margin-top: 30rem;
+  font-size: var(--h5);
+}
