@@ -1,7 +1,7 @@
 ---
 title: Halal Smoked Barbecue Pork
 author: Jonathan Wong
-date: 2021-30-03
+date: 2022-03-26
 tags: ["post", "featured"]
 image: https://amazingribs.com/wp-content/uploads/2021/02/smoked-pork-butt-scaled.jpg
 imageAlt: This is a test
