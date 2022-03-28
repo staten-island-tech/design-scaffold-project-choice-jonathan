@@ -127,24 +127,6 @@ body,
 
 }
 
-
-.deskss-nav{
-  background-color: var(--red);
-  font-size: var(--h2);
-  display: flex;
-  padding: 2rem;
-  font-family: 'Oswald', sans-serif;
-  color: var(--red);
-}
-
-.navss-item-desk{
-  margin:5rem;
-  margin-bottom: 5rem;
-  color: var(--white);
-  font-family: 'Oswald', sans-serif;
-  font-size: var(--h3);
-}
-
 .headers-title{
   text-align: center;
   margin: 5rem;
