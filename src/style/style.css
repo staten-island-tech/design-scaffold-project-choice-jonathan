@@ -165,3 +165,29 @@ p{
   margin-top: 30rem;
   font-size: var(--h5);
 }
+
+@media (max-width: 1300px) {
+  .nav-item-desk{
+    font-size: var(--h4);
+    margin: 2rem;
+  }
+  .blog-title{
+    text-align: center;
+  }
+  .blog-header{
+    flex-wrap: wrap;
+  }
+  .article-text{
+    margin: 1rem;
+  }
+}
+
+@media (max-width: 850px) {
+ 
+  
+}
+ 
+@media (max-width: 350px) {
+  
+}
+ 
