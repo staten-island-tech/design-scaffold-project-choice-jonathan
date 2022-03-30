@@ -166,9 +166,11 @@ p{
   font-size: var(--h5);
 }
 
-@media (max-width: 1300px) {
+
+
+@media (max-width: 500px) {
   .nav-item-desk{
-    font-size: var(--h4);
+    font-size: 1.8rem;
     margin: 2rem;
   }
   .blog-title{
@@ -180,11 +182,19 @@ p{
   .article-text{
     margin: 1rem;
   }
-}
-
-@media (max-width: 850px) {
- 
-  
+  .header-title{
+    font-size: 10rem;
+  }
+  .navs-item-desk{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  .second-header{
+    font-size: var(--h3);
+  }
+  p{
+    font-size: var(--h5);
+  }
 }
  
 @media (max-width: 350px) {
