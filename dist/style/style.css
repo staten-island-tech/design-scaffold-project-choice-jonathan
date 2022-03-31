@@ -167,21 +167,18 @@ p{
 }
 
 
-
 @media (max-width: 500px) {
   .nav-item-desk{
-    font-size: 1.8rem;
+    font-size: 2.4rem;
     margin: 2rem;
-  }
-  .blog-title{
-    text-align: center;
   }
   .blog-header{
     flex-wrap: wrap;
   }
   .article-text{
-    margin: 1rem;
+    margin-top: 3rem;
   }
+
   .header-title{
     font-size: 10rem;
   }
@@ -194,10 +191,14 @@ p{
   }
   p{
     font-size: var(--h5);
+    width: 90%;
+  }
+  .troll-face{
+    width: 20rem;
+  }
+  .blog-title{
+    margin: auto
   }
 }
- 
-@media (max-width: 350px) {
-  
-}
+
  
