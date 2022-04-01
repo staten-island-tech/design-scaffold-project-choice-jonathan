@@ -7,6 +7,8 @@ body,
   padding: 0;
   box-sizing: border-box;
   font-size: 62.5%;
+  overflow-x: hidden;
+
 }
 
 
@@ -16,6 +18,7 @@ body,
 .blog-header{
   display: flex;
   background-color: var(--red);
+  width: 100%;
 }
 
 .blog-title{
@@ -88,8 +91,8 @@ body,
 
 .home-background{
   background-image:url(https://wallpaper.dog/large/20491977.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
+  
 }
 
 .header-container{
@@ -198,6 +201,12 @@ p{
   }
   .blog-title{
     margin: auto
+  }
+  .home-background{
+    background-image:url(https://www.guidingtech.com/wp-content/uploads/HD-Mouth-Watering-Food-Wallpapers-for-Desktop-20_4d470f76dc99e18ad75087b1b8410ea9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
   }
 }
 
