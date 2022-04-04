@@ -7,8 +7,7 @@ body,
   padding: 0;
   box-sizing: border-box;
   font-size: 62.5%;
-  overflow-x: hidden;
-
+  overflow-x: clip;
 }
 
 
@@ -98,7 +97,6 @@ body,
 .header-container{
   margin: auto;
   margin-top: 5rem;
-  padding: 5rem;
   font-family: 'Oswald', sans-serif;
   height: 75%;
   width: 85%;
@@ -123,6 +121,7 @@ body,
   color:  var(--yellow);
   font-family: 'Oswald', sans-serif;
   padding: 5rem;
+  margin-top: 5rem;
 }
 
 .article-background{
@@ -186,8 +185,9 @@ p{
     font-size: 10rem;
   }
   .navs-item-desk{
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-bottom: 2rem;
+    margin-left: 1rem;
   }
   .second-header{
     font-size: var(--h3);
@@ -206,7 +206,14 @@ p{
     background-image:url(https://www.guidingtech.com/wp-content/uploads/HD-Mouth-Watering-Food-Wallpapers-for-Desktop-20_4d470f76dc99e18ad75087b1b8410ea9.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    
+    overflow-x: initial;
+  }
+  .headers-title{
+    font-size: var(--h2);
+  }
+  .figure-image{
+    width: 90%;
+    height: 35%;
   }
 }
 
