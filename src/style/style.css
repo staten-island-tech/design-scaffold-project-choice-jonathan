@@ -80,11 +80,13 @@ body,
 .article-author{
   font-size: var(--h4);
   font-family: 'Oswald', sans-serif;
+  text-align: center;
 }
 
 .article-description{
   font-size: var(--h5);
   font-family: 'Oswald', sans-serif;
+  margin-bottom: 5rem;
 }
 
 
@@ -177,9 +179,11 @@ p{
   .blog-header{
     flex-wrap: wrap;
   }
+  
   .article-text{
     margin-top: 3rem;
   }
+
 
   .header-title{
     font-size: 10rem;
