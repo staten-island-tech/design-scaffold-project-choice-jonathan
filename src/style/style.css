@@ -18,15 +18,16 @@ body,
   display: flex;
   background-color: var(--red);
   width: 100%;
+  justify-content: space-between;
 }
 
 .blog-title{
   font-size: var(--h2);
   text-align: center;
-  padding: 1rem;
   font-family: 'Inspiration', cursive;
   color: var(--white);
   margin: 1rem;
+  padding: 1rem;
 }
 .desk-nav{
   font-size: var(--h2);
@@ -119,10 +120,9 @@ body,
 
 .navs-item-desk{
   font-size: var(--h3);
-  margin: 5rem;
+  margin: 10rem;
   color:  var(--yellow);
   font-family: 'Oswald', sans-serif;
-  padding: 5rem;
   margin-top: 5rem;
 }
 
