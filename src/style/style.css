@@ -207,7 +207,7 @@ p{
     margin: auto
   }
   .home-background{
-    background-image: url(https://images.unsplash.com/photo-1504113888839-1c8eb50233d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-image: url(https://prod-wombo-paint.s3.amazonaws.com/exports/f78ab0c0-d484-4849-9ea3-cf220c4a6468/blank_tradingcard.jpg?AWSAccessKeyId=AKIAWGXQXQ6WCOB7PP5J&Signature=GfATsIZhi9PgGKCGfNvuL%2Fjxtbc%3D&Expires=1649443447);
     width: 100%;
     overflow-x: initial;
   }

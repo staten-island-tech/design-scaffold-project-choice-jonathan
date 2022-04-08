@@ -8,13 +8,33 @@ imageAlt: This is a test
 description: Becoming a trustworthy newsreporter has never been easier
 ---
 
+If you are reading this blog, your dream job is to work at CNN right?
 
-The first thing you need to do to get a job at CNN is to make a twitter account
+I mean who wouldnt want to work in one of the most trustworthy media companies
 
-Then you need to post "real" information about Republican Senators 
+and recieve praise from everyone around you for your factual reporting
 
-Dont forget to pander to the liberals while claiming that you are politically neutral
+Well I will tell you the steps needed to easily land a job at CNN
 
-Email Chris Licht about how you are the perfect person for a position in their company
+The first thing you need is to sell your house
 
-BOOM now you are hired at CNN
+The more money you can get, the better
+
+Then you need to make a visit your bank and take out the fattest loan you can
+
+You will need this money for the upcoming steps
+
+Take all your money and donate it to the Democratic Party
+
+You are probably wondering "Why do I need to donate money to the Democratic Party?"
+
+Dont worry about it and just listen to me
+
+After you are finished with your donation, email a picture of your donation to CNN
+
+BOOM! EASY JOB AT CNN
+
+Told you I wouldnt lie to you
+
+
+
