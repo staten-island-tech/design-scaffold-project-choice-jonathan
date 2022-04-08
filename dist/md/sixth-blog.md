@@ -13,6 +13,6 @@ Step 2: Buy an NFT
 
 Step 3: Realize you have been rugpulled
 
-Step 3: Drown in your own misery for knowing you paid $20k for a receipt of a picture that someone took 5 minutes to draw
+Step 4: Drown in your own misery for knowing you paid $20k for a receipt of a picture that someone took 5 minutes to draw
 
-Step 4: Donate $ to me so I can keep funding this website and because I taught you a life lesson
+Step 5: Donate $ to me so I can keep funding this website and because I taught you a life lesson
