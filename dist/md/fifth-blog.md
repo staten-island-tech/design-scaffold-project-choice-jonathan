@@ -5,7 +5,7 @@ date: 2022-03-28
 tags: ["post", "featured"]
 image: https://i.pinimg.com/originals/6d/2e/b4/6d2eb42ee6120406699ea25811675ee2.jpg
 imageAlt: This is a test
-description:  Its not your cake, its our cake comrade.
+description:  Its not your cake, its our cake comrade
 ---
 The best communist cake recipe. Ever? There are plenty of claims for the best communist cake recipe. I get that. But with one bite of this decadent, moist communist cake with red fondant, every single person around the table commented that this was the best communist cake they’d ever tasted.
 
