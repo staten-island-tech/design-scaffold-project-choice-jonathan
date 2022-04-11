@@ -3,7 +3,7 @@ title: Gordon Ramsay's Raw Steak
 author: Jonathan Wong
 date: 2022-03-24
 tags: ["post", "featured"]
-image: https://st.depositphotos.com/1020804/1448/i/600/depositphotos_14480443-stock-photo-beef-steak.jpg
+image: https://images.unsplash.com/photo-1546964124-0cce460f38ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 imageAlt: This is a test
 description: This is a delicious and easy recipe approved by Gordon Ramsay himself
 ---

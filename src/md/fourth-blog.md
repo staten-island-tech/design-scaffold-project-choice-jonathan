@@ -3,7 +3,7 @@ title: Vegan Rice
 author: Jonathan Wong 
 date: 2022-03-27
 tags: ["post", "featured"]
-image: https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/04/How-to-Cook-Rice-7.jpg
+image: https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 imageAlt: This is a test
 description:  Easy recipe for people who are vegan and want to be able to eat rice again
 ---

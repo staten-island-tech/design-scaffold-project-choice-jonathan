@@ -3,7 +3,7 @@ title: Why I hate K-POP
 author: Jonathan Wong
 date: 2022-03-30
 tags: ["post", "featured"]
-image: https://www.rollingstone.com/wp-content/uploads/2022/01/GOT-the-beat-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%AC%E1%86%AB%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%87%E1%85%AE%E1%84%90%E1%85%A5-%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1-%E1%84%8B%E1%85%B0%E1%86%AB%E1%84%83%E1%85%B5-%E1%84%90%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1-%E1%84%92%E1%85%AD%E1%84%8B%E1%85%A7%E1%86%AB-%E1%84%89%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B1%E1%86%AB%E1%84%90%E1%85%A5.jpg
+image: https://cdn.vox-cdn.com/thumbor/guKldqxwqnB9Qu6TbPk0Kp87tss=/97x0:922x550/2050x1367/cdn.vox-cdn.com/assets/1578749/kpop_lead.jpg
 imageAlt: This is a test
 description: K-POP is for masochists
 ---

@@ -3,7 +3,7 @@ title: Getting a job at CNN
 author: Jonathan Wong
 date: 2022-03-30
 tags: ["post", "featured"]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png
+image: https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/9b/6d/2e.jpg
 imageAlt: This is a test
 description: Becoming a trustworthy newsreporter has never been easier
 ---

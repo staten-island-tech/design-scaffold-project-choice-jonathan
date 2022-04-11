@@ -3,7 +3,7 @@ title: Communist Cake
 author: Jonathan Wong 
 date: 2022-03-28
 tags: ["post", "featured"]
-image: https://i.pinimg.com/originals/6d/2e/b4/6d2eb42ee6120406699ea25811675ee2.jpg
+image: https://i.pinimg.com/originals/2e/25/4b/2e254bccfc78c920fdf2d485365e670a.jpg
 imageAlt: This is a test
 description:  Its not your cake, its our cake comrade
 ---
