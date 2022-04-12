@@ -3,7 +3,7 @@ title: How to ace the SAT
 author: Jonathan Wong
 date: 2022-03-30
 tags: ["post", "featured"]
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cGDJruiiKVGrPM7yTRQu5Dumh81OV_qKQg&usqp=CAU
+image: https://www.aledoisd.org//cms/lib/TX02205721/Centricity/ModuleInstance/107/Data/12430/SAT-college%20board.jpg
 imageAlt: This is a test
 description: Get the score you deserve
 ---
@@ -39,8 +39,6 @@ But trust me its a waste of time
 Also whenever you are stuck on a question
 
 Leave a star on that question and just go back to it
-
-Hopefulyl with all this advice, you will be able to get that 1600
 
 
 

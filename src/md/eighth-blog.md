@@ -1,40 +1,47 @@
 ---
-title: Getting a job at CNN
+title: How to ace the SAT
 author: Jonathan Wong
 date: 2022-03-30
 tags: ["post", "featured"]
-image: https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/9b/6d/2e.jpg
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cGDJruiiKVGrPM7yTRQu5Dumh81OV_qKQg&usqp=CAU
 imageAlt: This is a test
-description: Becoming a trustworthy newsreporter has never been easier
+description: Get the score you deserve
 ---
 
-If you are reading this blog, your dream job is to work at CNN right?
+You are probably worried that your life will end if you get a bad score on the SAT
 
-I mean who wouldnt want to work in one of the most trustworthy media companies
+But dont worry because its not as important as everyone says it is
 
-and recieve praise from everyone around you for your factual reporting
+The average SAT score in America is a 1050 and you can get 200 points just by writing your name
 
-Well I will tell you the steps needed to easily land a job at CNN
+The most important thing to do is to get a good nights sleep before the test
 
-The first thing you need is to sell your house
+I know many people who have slept 4-5 hours and look like zombies in the morning
 
-The more money you can get, the better
+You dont want to be that person ok
 
-Then you need to make a visit your bank and take out the fattest loan you can
+You are probably wondering "How do I study for the SAT?"
 
-You will need this money for the upcoming steps
+I recommend you to go check out Khan Academy or to look at previous SATs
 
-Take all your money and donate it to the Democratic Party
+Try them out and try to learn to control your pace and look for common patterns
 
-You are probably wondering "Why do I need to donate money to the Democratic Party?"
+If you have the money, you can also buy a practice book online and do those problems
 
-Dont worry about it and just listen to me
+The best way to improve your score is through practice
 
-After you are finished with your donation, email a picture of your donation to CNN
+There is no other strategy as important as it
 
-BOOM! EASY JOB AT CNN
+Some people recommend you to highlight during your reading passages
 
-Told you I wouldnt lie to you
+But trust me its a waste of time
+
+Also whenever you are stuck on a question
+
+Leave a star on that question and just go back to it
+
+Hopefulyl with all this advice, you will be able to get that 1600
+
 
 
 
