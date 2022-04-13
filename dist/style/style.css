@@ -29,6 +29,7 @@ body,
   margin: 1rem;
   padding: 1rem;
 }
+
 .desk-nav{
   font-size: var(--h2);
   display: flex;
@@ -40,10 +41,11 @@ body,
 
 .nav-item-desk{
   margin:5rem;
-  margin-bottom: 5rem;
   color: var(--white);
   font-family: 'Oswald', sans-serif;
   font-size: var(--h3);
+  background-color: transparent;
+  border-color: transparent;
 }
 
 .second-header{
@@ -207,7 +209,7 @@ p{
     margin: auto
   }
   .home-background{
-    background-image: url(https://images.unsplash.com/photo-1649450248424-440b9f33d140?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+    background-image: url(https://images.unsplash.com/photo-1648815000647-5c463a46887f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
     width: 100%;
     overflow-x: initial;
   }
@@ -218,6 +220,10 @@ p{
     width: 90%;
     height: 35%;
   }
+  .navs-item-desk{
+    margin-left: 5rem;
+    color: var(--white)
+  }
 }
 
 @media (max-width: 1100px) {
@@ -225,8 +231,12 @@ p{
     margin-top: 2rem;
   }
   .home-background{
-    background-image: url(https://expertphotography.b-cdn.net/wp-content/uploads/2019/01/food-photography-blogs-Pancake-pour.jpg);
+    background-image: url(https://images.unsplash.com/photo-1648815000647-5c463a46887f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
     width: 100%;
   }
 }
- 
+
+.desks-nav:hover{
+  color: #666;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
