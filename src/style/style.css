@@ -23,12 +23,10 @@ body,
 
 .blog-title{
   font-size: var(--h2);
-  text-align: center;
   font-family: 'Inspiration', cursive;
   color: var(--white);
   margin: 1rem;
   padding: 1rem;
-  text-decoration: none;
 }
 
 .desk-nav{
@@ -173,6 +171,16 @@ p{
   font-size: var(--h5);
 }
 
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
 
 @media (max-width: 750px) {
   .nav-item-desk{
@@ -208,7 +216,7 @@ p{
     width: 20rem;
   }
   .blog-title{
-    margin: auto
+    margin-left: 7rem;
   }
   .home-background{
     background-image: url(https://images.unsplash.com/photo-1648815000647-5c463a46887f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
@@ -220,11 +228,16 @@ p{
   }
   .figure-image{
     width: 90%;
-    height: 35%;
+    height: 30%;
   }
   .navs-item-desk{
     margin-left: 5rem;
     color: var(--white)
+  }
+  .article-text{
+    width: 90%;
+    display: block;
+    margin: auto;
   }
 }
 
@@ -243,3 +256,7 @@ p{
   
 }
 
+.nav-item-desk:hover{
+  background-image: url(https://3.files.edl.io/aeb1/20/12/02/154937-46cc468f-b7f4-4bb3-945e-3265bdb605d4.jpg);
+  animation:slidebg 5s linear infinite;
+}
