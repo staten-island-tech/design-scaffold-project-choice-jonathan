@@ -69,6 +69,7 @@ body,
   height: 30rem;
   width: 40rem;
   display: flex;
+  background-size: cover;
 }
 
 .article-link{
@@ -246,7 +247,7 @@ a:active { text-decoration: none; }
     margin-top: 2rem;
   }
   .home-background{
-    background-image: url(https://images.unsplash.com/photo-1648815000647-5c463a46887f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+    background-image: url(https://images.unsplash.com/photo-1650288003586-ff8a9d00e142?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
     width: 100%;
   }
 }
@@ -258,7 +259,7 @@ a:active { text-decoration: none; }
 
 .nav-item-desk:hover{
   background-image: url(https://3.files.edl.io/aeb1/20/12/02/154937-46cc468f-b7f4-4bb3-945e-3265bdb605d4.jpg);
-   animation:slidebg 1s linear infinite;
+  animation:slidebg 1s linear infinite;
 }
 
 @keyframes slidebg {
