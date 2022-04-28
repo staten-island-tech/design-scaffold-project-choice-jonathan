@@ -5,7 +5,7 @@ date: 2022-03-27
 tags: ["post", "featured"]
 image: https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 imageAlt: This is a test
-description:  Easy recipe for people who are vegan and want to be able to eat rice again
+description:  Vegans can eat rice again
 ---
 Once you learn how to cook rice in a rice cooker, it will be dead simple to repeat for consistent, fluffy and delicious rice every time. Hands off too! Simply rinse the rice, use a 1:1 ratio of water to rice, start the machine and you’re good to go. For more details about the reasons ‘why’, read on!
 

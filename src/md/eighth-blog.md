@@ -8,6 +8,7 @@ imageAlt: This is a test
 description: Get the score you deserve
 ---
 
+<h2>hi<h2>
 You are probably worried that your life will end if you get a bad score on the SAT
 
 But dont worry because its not as important as everyone says it is
