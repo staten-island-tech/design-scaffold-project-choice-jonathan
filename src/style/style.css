@@ -165,7 +165,7 @@ p{
   margin-right: auto;
   width: 20%;
 
-}
+
 
 .copyright{
   margin-top: 30rem;
@@ -273,3 +273,4 @@ a:active { text-decoration: none; }
   transform: scale(1.1);
   transition: all ease 500ms;
 }
+
