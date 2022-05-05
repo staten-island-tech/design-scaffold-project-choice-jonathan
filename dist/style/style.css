@@ -94,7 +94,7 @@ body,
 
 
 .home-background{
-  background-image: url(https://images.unsplash.com/photo-1649887163343-371d312dac60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+  background-image: url();
   background-size: cover;
   
 }
@@ -250,7 +250,7 @@ a:active { text-decoration: none; }
     margin-left: 7rem;
   }
   .home-background{
-    background-image: url(https://images.unsplash.com/photo-1648815000647-5c463a46887f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+    background-image: url();
     width: 100%;
     overflow-x: initial;
   }
