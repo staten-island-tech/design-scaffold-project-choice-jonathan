@@ -3,7 +3,7 @@ title: Communist Cake
 author: Jonathan Wong 
 date: 2022-03-28
 tags: ["post", "featured"]
-image: https://www.thoughtco.com/thmb/8SpgAVTsRgA2IXFQRzcupSXVeuo=/2931x2198/smart/filters:no_upscale()/GettyImages-72410384-5c29ea0cc9e77c0001d85b98.jpg
+image: https://c.tenor.com/5ygsmhAjfWwAAAAC/saddam-hussein-talking.gif
 imageAlt: This is a test
 description:  Its not your cake, its our cake comrade
 ---

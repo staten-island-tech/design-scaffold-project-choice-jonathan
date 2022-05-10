@@ -3,7 +3,7 @@ title: Buying an NFT
 author: Jonathan Wong
 date: 2022-03-28
 tags: ["post", "featured"]
-image: https://images.unsplash.com/photo-1643101452019-bc00c9bba76b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80
+image: https://c.tenor.com/ZQLyg9AhA5MAAAAd/nft-non-fungible-token.gif
 imageAlt: This is a test
 description: Learn how to make $ investing in NFTS
 ---
