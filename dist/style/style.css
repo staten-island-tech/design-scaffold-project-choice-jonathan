@@ -294,7 +294,7 @@ a:active { text-decoration: none; }
 
 @keyframes slidebg {
   to {
-    background-position:20vw;
+    background-position:10vw;
   }
 }
 
@@ -303,13 +303,14 @@ a:active { text-decoration: none; }
   transition: all ease 500ms;
 }
 
-.image-container{
-  
-}
+
 .scrolling-image {
   background: url(https://3.files.edl.io/aeb1/20/12/02/154937-46cc468f-b7f4-4bb3-945e-3265bdb605d4.jpg);
   width: 100%;
-  height: 20%;
-  background-repeat: repeat;
-  animation:slidebg .7s linear infinite;
+  height: 50%;
+  background-size: cover;
+  animation:slidebg .4s linear infinite;
+}
+.scrolling-image:hover {
+  filter: invert(1);
 }
