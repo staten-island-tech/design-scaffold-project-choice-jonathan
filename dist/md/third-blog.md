@@ -3,7 +3,7 @@ title: Gordon Ramsay's Raw Steak
 author: Jonathan Wong
 date: 2022-03-24
 tags: ["post", "featured"]
-image: https://64.media.tumblr.com/462fac688568113e482c5f90441d4730/b861ee688d398fd1-8b/s500x750/58b61a5ceb324802dc81cff33c39ae9bac5c657d.gifv
+image: https://images.unsplash.com/photo-1558030006-450675393462?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80
 imageAlt: This is a test
 description: Expect a visit from Gordon Ramsay
 ---

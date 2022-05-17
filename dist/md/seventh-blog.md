@@ -3,7 +3,7 @@ title: Investing in the Stock Market
 author: Jonathan Wong
 date: 2022-03-29
 tags: ["post", "featured"]
-image: https://c.tenor.com/yY4sCm5TyrYAAAAC/nancy-pelosi.gif
+image: https://i.ytimg.com/vi/5jlGzI98yjs/maxresdefault.jpg
 imageAlt: This is a test
 description: Follow in the footsteps of legendary investor Nancy Pelosi
 ---

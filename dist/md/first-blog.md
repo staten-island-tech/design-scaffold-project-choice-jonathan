@@ -3,7 +3,7 @@ title: Fall off the bone potatoes
 author: Jonathan Wong 
 date: 2022-03-25
 tags: ["post", "featured"]
-image: https://64.media.tumblr.com/d50fc2c6515dd5ea2ca72663c11327d0/tumblr_oucv6rBuOl1uxvvvzo3_500.gifv
+image: https://images.unsplash.com/photo-1552845683-cfefc701e423?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
 imageAlt: This is a test
 description:   Potatoes that will literally fall off the bone
 ---

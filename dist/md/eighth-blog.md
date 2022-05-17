@@ -3,7 +3,7 @@ title: How to ace the SAT
 author: Jonathan Wong
 date: 2022-03-30
 tags: ["post", "featured"]
-image: https://media4.giphy.com/media/gJuZTDOm8UnUDw1PF3/200w.gif
+image: https://www.condorhigh.us/wp-content/uploads/2019/05/sat.png
 imageAlt: This is a test
 description: Get the score you deserve
 ---
