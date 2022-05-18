@@ -151,7 +151,6 @@ body,
 }
 
 .navs-item-desk:hover{
-  padding-right: 24px;
   padding-left:8px;
 }
 
@@ -277,7 +276,7 @@ a:active { text-decoration: none; }
     margin-top: 2rem;
   }
   .home-background{
-    background-image: url(https://data.whicdn.com/images/333390680/original.gif);
+    background-image: url(https://images.unsplash.com/photo-1652252036231-cf8f5f6ff23d?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687);
     width: 100%;
   }
 }
@@ -288,22 +287,22 @@ a:active { text-decoration: none; }
 }
 
 .nav-item-desk:hover{
-  background-image: url(https://3.files.edl.io/aeb1/20/12/02/154937-46cc468f-b7f4-4bb3-945e-3265bdb605d4.jpg);
-  animation:slidebg .7s linear infinite;
+  border-color: var(--white);
 }
 
-@keyframes slidebg {
-  to {
-    background-position:10vw;
-  }
-}
+
 
 .article-text:hover{
   transform: scale(1.1);
   transition: all ease 500ms;
 }
 
-
+@keyframes slidebg {
+  to {
+    background-position:20vw;
+    background-position:10vw;
+  }
+}
 .scrolling-image {
   background: url(https://3.files.edl.io/aeb1/20/12/02/154937-46cc468f-b7f4-4bb3-945e-3265bdb605d4.jpg);
   width: 100%;
