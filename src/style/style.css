@@ -93,7 +93,7 @@ body,
 }
 
 .home-background{
-  background-image: url(https://c.tenor.com/Vei5ISMlVgEAAAAd/anime-food.gif);
+  background-image: url(https://images.unsplash.com/photo-1649239702611-ebee87c0e537?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025);
   background-size: cover;
 }
 
@@ -110,7 +110,7 @@ body,
   margin-top: 20rem;
   text-align: center;
   font-family: 'Inspiration', cursive;
-  color: var(--white);
+  color: var(--yellow);
   font-size: 20rem;
 }
 
@@ -123,7 +123,7 @@ body,
   border-radius: 4px;
   background-color: transparent;
   border: none;
-  color: var(--white);
+  color: var(--yellow);
   text-align: center;
   font-size: var(--h2);
   padding: 16px;
@@ -247,7 +247,7 @@ a:active { text-decoration: none; }
   .blog-title{
     margin-left: 7rem;
   }
-  .home-background{
+  .background{
     background-image: url(https://data.whicdn.com/images/333390680/original.gif);
     width: 100%;
   }
@@ -260,7 +260,6 @@ a:active { text-decoration: none; }
   }
   .navs-item-desk{
     margin-left: 5rem;
-    color: var(--white)
   }
   .article-text{
     width: 90%;
