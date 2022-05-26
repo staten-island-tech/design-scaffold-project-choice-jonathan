@@ -110,7 +110,7 @@ body,
   margin-top: 20rem;
   text-align: center;
   font-family: 'Inspiration', cursive;
-  color: var(--yellow);
+  color: var(--red);
   font-size: 20rem;
 }
 
@@ -123,7 +123,7 @@ body,
   border-radius: 4px;
   background-color: transparent;
   border: none;
-  color: var(--yellow);
+  color: var(--red);
   text-align: center;
   font-size: var(--h2);
   padding: 16px;

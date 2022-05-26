@@ -21,10 +21,10 @@ The second thing you need to do is to "gift" them some money for their "hard wor
 
 Once you get that "information", you will borrow money from the bank and invest it all in the "information" you recieved
 
-When you see men in black coming to your house with the symbol IRS
+When you see men in black coming to your house with the symbol SEC
 
 Dont worry I wont visit you in jail
 
-You should of learned that day trading is illegal unless you're a politician
+You should of learned that insider trading is illegal unless you're a politician
 
 Rules for thee and not for me

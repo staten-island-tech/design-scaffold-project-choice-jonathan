@@ -3,7 +3,7 @@ title: Halal Smoked Barbecue Pork
 author: Jonathan Wong
 date: 2022-03-26
 tags: ["post", "featured"]
-image: https://images.unsplash.com/photo-1624174503901-11e36ada9466?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
+image: https://wordpress-live.heygrillhey.com/wp-content/uploads/2020/02/Pork-Belly-Feature.png
 imageAlt: This is a test
 description: Make sure to read the Quran if you are Muslim
 ---
